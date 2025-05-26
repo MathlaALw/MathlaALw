@@ -1,6 +1,6 @@
 # 👋 Hi, I'm MathlaALw!
 
-Welcome to my GitHub profile! I'm a passionate programmer based in Oman 🇴🇲, working on various console-based and educational projects. I'm currently focused on improving my skills in C#, C++, and version control with Git.
+Welcome to my GitHub profile! I'm a passionate programmer based in Oman 🇴🇲, working on various console-based and educational projects. I'm currently focused on improving my skills in C#, and version control with Git.
 
 
 
