@@ -33,12 +33,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MathlaALw&show_icons=true&theme=radical" alt="Mathla's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathlaALw&layout=compact&theme=radical" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathlaALw&theme=dracula" alt="Contribution Graph" />
-
 </p>
+
+<p align="center" style="margin-top: 1em;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathlaALw&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center" style="margin-top: 1em;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathlaALw&theme=dracula" alt="Contribution Graph" />
+</p>
+
 
 ---
 
