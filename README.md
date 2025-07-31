@@ -33,6 +33,7 @@
 
 ![MathlaALw's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MathlaALw&theme=dark&hide_border=true)
 
+![MathlaALw's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathlaALw&theme=dark&show_icons=true&hide_border=true&layout=compact)
 ---
 
 ## 🌟 A Bit About Me
