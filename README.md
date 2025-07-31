@@ -30,28 +30,12 @@
 ---
 
 
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MathlaALw&show_icons=true&count_private=true&hide=contribs&theme=radical" alt="Mathla's GitHub Stats" />
+![MathlaALw's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MathlaALw&theme=dark&hide_border=true)
 
-  <br /><br />
+![MathlaALw's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathlaALw&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathlaALw&layout=compact&count_private=true&theme=radical" alt="Top Languages" />
-
-  <br /><br />
-
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathlaALw&theme=dracula" alt="Contribution Graph" />
-
-  <br /><br />
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MathlaALw&theme=radical" alt="GitHub Streak Stats" />
-</p>
 
 ---
 
