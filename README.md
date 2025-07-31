@@ -31,18 +31,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MathlaALw&show_icons=true&theme=radical" alt="Mathla's GitHub Stats" />
-</p>
-
-<p align="center" style="margin-top: 1em;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathlaALw&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center" style="margin-top: 1em;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathlaALw&theme=dracula" alt="Contribution Graph" />
-</p>
-
+![MathlaALw's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MathlaALw&theme=dark&hide_border=true)
 
 ---
 
