@@ -36,7 +36,7 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathlaALw&layout=compact&theme=radical" alt="Top Languages" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathlaALw&theme=dracula" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathlaALw&theme=dracula" alt="Contribution Graph" />
 
 </p>
 
