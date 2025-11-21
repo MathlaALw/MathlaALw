@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Mathla Alwahaibi
 
 🎓 Trainee Software Developer at **CodeLine** – part of **Rihal Company**, Muscat, Oman  
-💻 Currently focused on becoming a **.NET Backend Developer** using **C#** and **SQL**
+💻 Currently focused on becoming a **.NET Full Stack Developer**
 
 ---
 
